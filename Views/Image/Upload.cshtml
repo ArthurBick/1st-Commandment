@@ -1,0 +1,27 @@
+﻿@model _1stCommandment.Models.UploadImageModel
+
+<div class="row upload-container">
+    <div class="drop-shadow">
+        <form asp-action="UploadNewImage" method="post" enctype="multipart/form-data" id="upload-form" class="upload-form_input">
+            <div class="form-group">
+                <label asp-for="Title"></label>
+                <input asp-for="Title" class="form-control" />
+            </div>
+            <div class="form-group upload-form_input">
+                <label asp-for="Tags"></label>
+                <input asp-for="Tags" class="form-control" />
+            </div>
+            <div>
+                <label class="btn btn-default btn-file drop-shadow upload-form_browse">
+                    Browse for Image
+                    <input type="file" name="file" style="display: none" />
+                </label>
+            </div>
+            <div class="submit upload-form_submit">
+                <button type="submit" id="btn-upload" class="btn btn-info">
+                    Submit
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

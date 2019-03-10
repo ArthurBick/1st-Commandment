@@ -1,0 +1,20 @@
+﻿@model _1stCommandment.Models.GalleryDetailModel
+
+<div class="container body-content">
+    <div class="row image-detail-container">
+        <div class="image-detail">
+            <img src="@Model.Url" alt="@Model.Title" />
+        </div>
+    </div>
+    <div class="row image-detail-meta">
+        <span>Title: @Model.Title</span>
+        <span>Updloaded: @Model.Created</span>
+    </div>
+    <div class="row controls">
+        <a class="btn btn-primary" asp-controller="Gallery" asp-action="Index">
+            Back to Gallery
+        </a>
+    </div>
+</div>
+
+

@@ -1,0 +1,78 @@
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.deps.json
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.runtimeconfig.json
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.runtimeconfig.dev.json
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.dll
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.pdb
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.Views.dll
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.Views.pdb
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Data.dll
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Services.dll
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Services.pdb
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Data.pdb
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csprojAssemblyReference.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorAssemblyInfo.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorAssemblyInfo.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.AssemblyInfoInputs.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.AssemblyInfo.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.TagHelpers.input.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.TagHelpers.output.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorCoreGenerate.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Gallery\Detail.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Gallery\Index.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Image\Upload.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorTargetAssemblyInfo.cs
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.Views.pdb
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csproj.CopyComplete
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.dll
+C:\Users\arthu\Source\Repos\Projects\1stCommandment\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.deps.json
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.runtimeconfig.dev.json
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.dll
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.Views.dll
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\1stCommandment.Views.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Data.dll
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Services.dll
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Services.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\bin\Debug\netcoreapp2.2\ImageGallery.Data.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csprojAssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorAssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.TagHelpers.input.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.TagHelpers.output.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorCoreGenerate.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Gallery\Detail.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Gallery\Index.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Image\Upload.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.RazorTargetAssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.Views.pdb
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.csproj.CopyComplete
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.dll
+C:\Users\arthu\OneDrive\Documents\Visual Studio 2017\Projects\1stCommandment\obj\Debug\netcoreapp2.2\1stCommandment.pdb
