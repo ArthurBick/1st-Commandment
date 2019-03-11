@@ -1,5 +1,6 @@
 ﻿using _1stCommandment.Models;
 using ImageGallery.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace _1stCommandment.Controllers
 {
+    [Authorize]
     public class ImageController : Controller
     {
         private IConfiguration _config;
